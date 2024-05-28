@@ -1,0 +1,16 @@
+.btn{
+    /* border: 0; */
+    border-radius: 0;
+}
+body{
+     border: 20px;
+     border-color: aqua;
+     border-radius: 50%;
+}
+
+
+img{
+    width: 40px;
+    height: 40px;
+    padding: 2px;
+}
